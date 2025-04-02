@@ -1,0 +1,60 @@
+1 0
+book1
+auth1
+2 0
+book2
+auth2
+3 0
+book3
+auth3
+4 0
+book4
+auth4
+5 0
+book5
+auth5
+6 0
+book6
+auth6
+7 0
+book7
+auth7
+8 0
+book8
+auth8
+9 0
+book9
+auth9
+10 0
+book10
+auth10
+11 0
+book11
+auth11
+12 0
+book12
+auth12
+13 0
+book13
+auth13
+14 0
+book14
+auth14
+15 0
+book15
+auth15
+16 0
+book16
+auth16
+17 0
+book17
+auth17
+18 0
+book18
+auth18
+19 0
+book19
+auth19
+20 0
+book20
+auth20
